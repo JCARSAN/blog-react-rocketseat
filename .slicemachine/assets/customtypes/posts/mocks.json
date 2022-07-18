@@ -1,0 +1,41 @@
+{
+  "id": "bf75ec20-99cf-4c61-a2ab-eae2dba9d3f1",
+  "uid": "beatae-ducimus-quo",
+  "type": "posts",
+  "data": {
+    "title": "embrace sexy interfaces",
+    "subtitle": "target wireless relationships",
+    "author": "syndicate collaborative portals",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "grow cross-platform infomediaries",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Incididunt culpa commodo eu reprehenderit minim officia minim laborum nisi labore deserunt qui id reprehenderit. Laboris velit ea proident dolore irure occaecat esse officia voluptate.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "empower enterprise e-commerce",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Incididunt adipisicing Lorem et ipsum nostrud consectetur consectetur consequat qui tempor cillum duis labore incididunt.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,1 +1,44 @@
 // TODO
+.postContainer{
+    img{
+        width: 100%;
+        height: auto;
+    }
+    .postContent{
+        color: #fff;
+        max-width: 721px;
+        margin: auto;
+        padding-top: 80px;
+
+        h2{
+            font-size: 3rem;
+            margin-bottom: 25px;
+        }
+
+        .postContentInfo{
+            display: flex;
+            width: 55%;
+            justify-content: space-between;
+
+            span{
+                margin-left: 10px;
+            }
+        }
+    }
+}
+.postContentText{
+    padding-top: 80px;
+
+    h3{
+        font-size: 2rem;
+        margin-bottom: 80px;
+    }
+
+    .postText{
+        line-height: 1.5;
+        p{
+            margin-top: 20px;
+            font-size: 1.1rem;
+        }    
+    }
+}

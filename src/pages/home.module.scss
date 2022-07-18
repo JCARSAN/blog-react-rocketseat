@@ -1,1 +1,52 @@
 // TODO
+.homeContent{
+    width: 100%;
+    max-width: 721px;
+    margin: auto;
+    padding-bottom: 100px;
+
+    .homeContentPost{
+        width: 100%;
+        max-width: 721px;
+        margin: 50px auto;
+        color: var(--info);
+
+        h2{
+            color: var(--heading);
+        }
+         h3{
+            margin-top: 10px;
+            margin-bottom: 25px;
+         }
+    }
+    a{
+        text-decoration: none;
+    }
+}
+
+.homeContentPostInfo{
+    display: flex;
+
+    div:nth-of-type(n+2){
+        margin-left: 15px;
+    }
+
+    svg{
+        margin-right: 5px;
+    }
+}
+
+.mostPostsLink{
+    color: var(--highlight);
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    background: transparent;
+    outline: none;
+    border: none;
+}
+
+.mostPostsLinkDisabled{
+    opacity: 0.25;
+    cursor: not-allowed;
+}
